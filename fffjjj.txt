@@ -3,4 +3,4 @@ fjbq
 fffjjj
 
 
-2
+main -> fffjjj
